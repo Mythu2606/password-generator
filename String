@@ -1,0 +1,4 @@
+s="sample"
+Print(s[0:2])
+Print(s[ :5])
+Print(s[-2])
